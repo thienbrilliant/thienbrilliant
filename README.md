@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Thiên</h1>
+<h1 align="center">Hi 👋 I'm thienbrilliant</h1>
 
 <p align="center">
 🎓 Student Developer • ⚽ HaxBall Developer • 🤖 Discord Bot Developer
@@ -88,7 +88,7 @@
 
 ## 📫 Contact
 
-* 💬 Discord: **your-discord-id**
+* 💬 Discord: ashmourne2
 * 🐙 GitHub: https://github.com/thienbrilliant
 
 ---
