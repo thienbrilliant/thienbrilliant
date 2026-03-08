@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=540&lines=HaxBall+Room+Developer;Discord+Bot+Developer;Automation+Tool+Builder;JavaScript+%7C+TypeScript+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=540&lines=HaxBall+Developer;Discord+Bot+Developer;Automation+Tool+Builder;JavaScript+%7C+TypeScript+%7C+Python" />
 </p>
 
 <p align="center">
@@ -55,18 +55,6 @@
 * 🛠️ Server utilities
 * 🔒 Moderation systems
 * ⚡ Automation tools
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thienbrilliant&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbrilliant&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
