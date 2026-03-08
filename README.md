@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Thiên</h1>
 
 <p align="center">
-Student Developer • HaxBall Developer • Discord Bot Developer
+🎓 Student Developer • ⚽ HaxBall Developer • 🤖 Discord Bot Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00A8FF&center=true&vCenter=true&width=520&lines=HaxBall+Room+Developer;Discord+Bot+Developer;Automation+Tool+Builder;Learning+Fullstack+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=540&lines=HaxBall+Room+Developer;Discord+Bot+Developer;Automation+Tool+Builder;JavaScript+%7C+TypeScript+%7C+Python+Developer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thienbrilliant&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=thienbrilliant&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -17,48 +17,54 @@ Student Developer • HaxBall Developer • Discord Bot Developer
 ## 👨‍💻 About Me
 
 * 🎓 Student developer passionate about **automation and scripting**
-* ⚽ Creating **HaxBall rooms, maps, and custom tools**
-* 🤖 Developing **Discord bots and server utilities**
-* 🧠 Exploring **JavaScript, Node.js, Python and backend systems**
-* 🚀 Always experimenting and building new tools
+* ⚽ Creating **HaxBall rooms, maps and tools**
+* 🤖 Building **Discord bots and server utilities**
+* 🧠 Working mainly with **JavaScript, TypeScript and Python**
+* 🚀 Always experimenting and building new projects
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
 </p>
 
 ---
 
-## ⚽ HaxBall Development
+## ⚙️ Development Areas
 
-* Custom **HaxBall room engines**
-* Advanced **map design**
-* Client tools and utilities
-* Room automation scripts
+### ⚽ HaxBall
+
+* 🏟️ Custom **room scripts**
+* 🗺️ Advanced **map creation**
+* 🧰 Client **tools and utilities**
+* 🤖 Room automation systems
+
+### 🤖 Discord
+
+* 🤖 Discord bots
+* 🛠️ Server utilities
+* 🔒 Moderation systems
+* ⚡ Automation tools
 
 ---
 
-## 🤖 Discord Development
-
-* Discord bots
-* Server moderation tools
-* Automation scripts
-* Utility commands and systems
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thienbrilliant&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thienbrilliant&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbrilliant&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbrilliant&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -67,12 +73,12 @@ Student Developer • HaxBall Developer • Discord Bot Developer
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thienbrilliant&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=thienbrilliant&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thienbrilliant&theme=tokyo-night"/>
@@ -82,8 +88,8 @@ Student Developer • HaxBall Developer • Discord Bot Developer
 
 ## 📫 Contact
 
-Discord: **your-discord-id**
-GitHub: https://github.com/thienbrilliant
+* 💬 Discord: **your-discord-id**
+* 🐙 GitHub: https://github.com/thienbrilliant
 
 ---
 
