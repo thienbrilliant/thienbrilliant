@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=540&lines=HaxBall+Room+Developer;Discord+Bot+Developer;Automation+Tool+Builder;JavaScript+%7C+TypeScript+%7C+Pythonr" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00BFFF&center=true&vCenter=true&width=540&lines=HaxBall+Room+Developer;Discord+Bot+Developer;Automation+Tool+Builder;JavaScript+%7C+TypeScript+%7C+Python" />
 </p>
 
 <p align="center">
